@@ -1,0 +1,12 @@
+
+Verbinden mit mainFraim:
+sudo apt install x3270
+x3270  #startet terminal
+connect -> IP = 134.2.205.54 -> begrüßungs screen wird angezeigt
+
+
+Verbinden mit TSO Subsystem:
+
+l tso
+
+
